@@ -1,16 +1,16 @@
-# ASCII Drawings
+# ASCII Art Gallery
 This program displays some of my interests with ASCII Art.
 ## Features
 This program is an art gallery of personal interests through charming ASCII drawings. From my favorite holiday scenes to adorable depictions of my dog, and desired travel destinations.
 ## Screenshots 📸
-
+![ASCII Art screenshot](screenshots/asciiArt.png)
 ## Requirements 🔧
 .NET Core 6.0 or later
 ## Installation 🔌
 1. Press the Fork button (top right of the page) to save a copy of this project on your account.
 
 2. Download the repository files (project) from the download section or clone this project by typing in the bash the following command:
- git clone (https://github.com/CoderValentina/asciiDrawings.git)
+ git clone (https://github.com/CoderValentina/asciiArtGallery.git)
 
 3. Open it in Visual Studio Code.
 
